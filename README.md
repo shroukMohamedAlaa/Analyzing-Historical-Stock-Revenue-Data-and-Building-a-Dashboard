@@ -1,2 +1,2 @@
-# Python-Project-for-Data-Science
-It's an IBM course from the IBM data analyst certificate
+# Analyzing Historical Stock/Revenue Data and Building a Dashboard
+It's a project in python project for Data science course from the IBM data analyst certificate
